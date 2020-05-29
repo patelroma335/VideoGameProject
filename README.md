@@ -1,2 +1,1 @@
-# VideoGameProject
-Project 1
+# videogame_project
